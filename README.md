@@ -1,7 +1,4 @@
 # Proyecto-JavaScript
-Proyecto Primer Trimestre
-
-Readme Proyecto David Pérez
 
 La aplicación inicia en index.html donde de inicio hay un formulario que recibe los datos del gestor patrimonial, el cual 
 es el único que va a acceder a la aplicación para gestionar las carteras de sus clientes, el usuario y contraseña es verificado en index.js.
